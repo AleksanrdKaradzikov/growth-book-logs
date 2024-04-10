@@ -1,0 +1,27 @@
+{
+  "status": 200,
+  "features": {
+    "show_grouping": {
+      "defaultValue": true
+    },
+    "show_multiselects": {
+      "defaultValue": true
+    },
+    "show_overlapping": {
+      "defaultValue": true
+    },
+    "show_wit_hb": {
+      "defaultValue": true
+    },
+    "show_disable_contractor_info": {
+      "defaultValue": true
+    },
+    "show_wis_hb": {
+      "defaultValue": true
+    },
+    "feature_toggle_errors_enabled": {
+      "defaultValue": true
+    }
+  },
+  "dateUpdated": "2024-03-19T15:23:06.134Z"
+}
